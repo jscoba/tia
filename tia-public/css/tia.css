@@ -1,0 +1,53 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:700);
+
+body
+{
+    background-color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 24pt;
+    color: white;
+}
+
+table
+{
+    border: 0px;
+    margin: auto;
+    width: 1900px;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+table tbody
+{
+    border: 0px;
+}
+
+td.superior
+{
+    height: 12px;
+}
+
+td.esquinaizq
+{
+    width: 0px;
+}
+td.superiorizq
+{
+    text-align: left;
+    width: 600px;
+}
+td.superiorcen
+{
+    text-align: center;
+    width: 600px;
+}
+td.superiorder
+{
+    text-align: right;
+    width: 600px;
+}
+td.esquinader
+{
+    width: 0px;
+}
+
